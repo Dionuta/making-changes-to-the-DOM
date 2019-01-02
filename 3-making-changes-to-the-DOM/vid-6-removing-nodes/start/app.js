@@ -1,3 +1,4 @@
+// elements selected  
 const toggleList = document.getElementById('toggleList');
 const listDiv = document.querySelector('.list');
 const descriptionInput = document.querySelector('input.description');
